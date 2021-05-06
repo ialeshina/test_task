@@ -27,7 +27,7 @@ Good luck!
 
 1. Clone the repo
 ```sh
-git clone https://github.com/pontusnyman/tati.git
+git clone https://github.com/ialeshina/test_task.git
 ```
 3. Install NPM packages
 ```sh
