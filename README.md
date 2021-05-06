@@ -11,7 +11,7 @@ Fork this repo, create a branch, complete all tasks and open a Pull Request - Sh
 ## Getting Started
 
 Hi there,
-under testcafe you will find a file called test.spec.js. This file contains one almost complete test that you need to correct and six more tests that you need to write yourself.
+under testcafe you will find a file called test.spec.js. This file contains one almost completed test that you need to correct and six more tests that you need to write yourself.
 In this exmaple we are using a Javascript framework called Testcafe. 
 Feel free to use Testcafes documentation [https://devexpress.github.io/testcafe/documentation/reference/] .
 
