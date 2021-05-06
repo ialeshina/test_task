@@ -29,11 +29,11 @@ Good luck!
 ```sh
 git clone https://github.com/ialeshina/test_task.git
 ```
-3. Install NPM packages
+2. Install NPM packages
 ```sh
 npm install
 ```
-4. Run test
+3. Run test
 ```sh
 npm test
 ```
