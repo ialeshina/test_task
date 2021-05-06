@@ -16,7 +16,7 @@ In this exmaple we are using a Javascript framework called Testcafe.
 Feel free to use Testcafes documentation [https://devexpress.github.io/testcafe/documentation/reference/] .
 
 We are testing a webshop [https://www.saucedemo.com/]. 
-On the login page you find credentials that you need to use to complete all tests.
+On the login page you will find credentials that you need to use to complete all tests.
 Good luck!
 
 ### Prerequisites
